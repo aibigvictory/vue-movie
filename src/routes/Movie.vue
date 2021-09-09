@@ -204,9 +204,6 @@ export default {
                         flex-shrink: 0;
                         margin-right: 6px;
                     }
-                    span{
-
-                    }
                 }
             }
         }
